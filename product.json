@@ -1,0 +1,66 @@
+{
+    "noteBook": {
+        "classmates" : {
+          "price": 40,
+          "quantity": 23
+        },
+        "Notebook": {
+          "price": 40,
+          "quantity": 23
+        },
+        "Bill" :{
+          "Price":35,
+          "quantity":10
+        }
+    },
+    "pen" :{
+      "cello":{
+        "price": 40,
+        "quantity": 23
+      },
+      "lexi":{
+        "price": 40,
+        "quantity": 23
+      },
+      "uni":{
+        "price": 40,
+        "quantity": 23
+      }
+    },
+    "candle" :{
+      "rose":{
+        "price": 40,
+        "quantity": 23
+      },
+      "light":{
+        "price": 40,
+        "quantity": 23
+      },
+      "waxit":{
+        "price": 40,
+        "quantity": 23
+      },
+      "flame":{
+        "price": 40,
+        "quantity": 23
+      }
+    },
+    "bottle" :{
+      "mystique":{
+        "price": 140,
+        "quantity": 2
+      },
+      "myghty":{
+        "price": 120,
+        "quantity": 23
+      },
+      "cosmo":{
+        "price": 210,
+        "quantity": 3
+      },
+      "drop":{
+        "price": 240,
+        "quantity": 10
+      }
+    }
+}

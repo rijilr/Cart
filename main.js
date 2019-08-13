@@ -1,0 +1,1 @@
+var mydata = JSON.parse(product);
